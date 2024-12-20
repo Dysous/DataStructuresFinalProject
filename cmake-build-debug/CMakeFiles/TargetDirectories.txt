@@ -1,0 +1,3 @@
+C:/Users/NTMat/OneDrive/Documents/GitHub/Jingle-Ballers/cmake-build-debug/CMakeFiles/Jingle_Ballers.dir
+C:/Users/NTMat/OneDrive/Documents/GitHub/Jingle-Ballers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NTMat/OneDrive/Documents/GitHub/Jingle-Ballers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

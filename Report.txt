@@ -1,0 +1,27 @@
+Project Report - Provide a detailed report that includes:
+Explanation of how the Red-Black Tree works.
+Design decisions in implementing the tree and visualization.
+Description of the interface and how it supports user interaction.
+Performance analysis with the chosen datasets.
+Reflections on the challenges encountered and how they were resolved.
+
+Ethan Pritchett, Nathan Garcia, Ethan Vowels, Rylan Kinzle, Noah Mathew
+Dr. Booth
+3334 Data Structures
+10/15/2024
+                                    Project Report
+                                    
+
+Explanation of how the Red-Black Tree Works: (Rylan, Nathan or Ethan please do this part)
+
+
+Design decisions in implementing tree and visualization: (Everyone contribute to this as you add features)
+
+
+Description of the interface and how it supports user interaction: (Ethan and Noah and everyone else as project progresses)
+
+
+Performance analysis with the chosen datasets. (Is this supposed to be a part of program or exclusively in the report?)
+
+
+Reflections on the challenges encountered and how they were resolved: (Everyone)
